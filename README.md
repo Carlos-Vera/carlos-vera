@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1a1a2e,50:16213e,100:0f3460&text=Hi,%20I'm%20Carlos%20Vera&fontColor=ffffff&desc=Fullstack%20Developer%20%E2%80%A2%20Senior%20Designer%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,50:242424,100:01b7af&text=Hi,%20I'm%20Carlos%20Vera&fontColor=ffffff&desc=Fullstack%20Developer%20%E2%80%A2%20Senior%20Designer%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Carlos-Vera?style=for-the-badge&color=e94560&label=Followers&labelColor=0f3460)](https://github.com/Carlos-Vera?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=Carlos-Vera&style=for-the-badge&color=e94560&labelColor=0f3460&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Carlos-Vera?style=for-the-badge&color=01b7af&label=Followers&labelColor=242424)](https://github.com/Carlos-Vera?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Carlos-Vera&style=for-the-badge&color=01b7af&labelColor=242424&label=Profile+Views)
 
 </div>
 
@@ -56,10 +56,10 @@
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-@carlosveramkt-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/carlosveramkt)
-[![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/carlosveramkt)
-[![YouTube](https://img.shields.io/badge/YouTube-CarlosVeraMKT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@CarlosVeraMKT)
-[![Web](https://img.shields.io/badge/Web-BravesLab.com-e94560?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=101010)](https://braveslab.com)
+[![X](https://img.shields.io/badge/X-@carlosveramkt-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a)](https://x.com/carlosveramkt)
+[![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://www.instagram.com/carlosveramkt)
+[![YouTube](https://img.shields.io/badge/YouTube-CarlosVeraMKT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a)](https://www.youtube.com/@CarlosVeraMKT)
+[![Web](https://img.shields.io/badge/Web-BravesLab.com-01b7af?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0a0a0a)](https://braveslab.com)
 
 </div>
 
@@ -113,14 +113,14 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=transparent&title_color=e94560&icon_color=e94560&text_color=ffffff&border_color=0f3460">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=transparent&title_color=01b7af&icon_color=01b7af&text_color=ffffff&border_color=242424">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=default&title_color=01b7af&icon_color=01b7af&border_color=242424">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=default" height="200px">
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=transparent&title_color=e94560&text_color=ffffff&border_color=0f3460">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=transparent&title_color=01b7af&text_color=ffffff&border_color=242424">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=default&title_color=01b7af&border_color=242424">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=default" height="200px">
   </picture>
 
@@ -128,9 +128,9 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Vera&theme=transparent&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=e94560" alt="GitHub Streak" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Vera&theme=transparent&ring=01b7af&fire=5dd5c7&currStreakLabel=01b7af&sideLabels=ffffff&dates=ffffff&sideNums=5dd5c7&currStreakNum=01b7af" alt="GitHub Streak" height="200px"/>
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01b7af,50:242424,100:0a0a0a&height=120&section=footer"/>
