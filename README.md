@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,50:242424,100:01b7af&text=Hi,%20I'm%20Carlos%20Vera&fontColor=ffffff&desc=Fullstack%20Developer%20%E2%80%A2%20Senior%20Designer%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:016560,50:018E87,100:01b7af&text=Hi,%20I'm%20Carlos%20Vera&fontColor=ffffff&desc=Fullstack%20Developer%20%E2%80%A2%20Senior%20Designer%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 <p align="center">
   Construyo productos digitales donde el diseño y el código se encuentran.<br>
-  Integro IA para crear experiencias más inteligentes y automatizar lo que no debería hacerse a mano.
+  Integro IA para crear experiencias digitales y automatizar en busca de mejora de procesos.
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
   <tr>
     <td>🚀</td>
     <td><b>Building</b></td>
-    <td><a href="https://github.com/Carlos-Vera/BravesChat">BravesChat IA</a></td>
+    <td><a href="https://wordpress.org/plugins/braveschat/">BravesChat IA</a></td>
   </tr>
   <tr>
     <td>🤝</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>🌐</td>
-    <td><b>Studio</b></td>
+    <td><b>Business</b></td>
     <td><a href="https://braveslab.com">braveslab.com</a></td>
   </tr>
 </table>
@@ -56,10 +56,10 @@
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-@carlosveramkt-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a)](https://x.com/carlosveramkt)
-[![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://www.instagram.com/carlosveramkt)
-[![YouTube](https://img.shields.io/badge/YouTube-CarlosVeraMKT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0a)](https://www.youtube.com/@CarlosVeraMKT)
-[![Web](https://img.shields.io/badge/Web-BravesLab.com-01b7af?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0a0a0a)](https://braveslab.com)
+[![X](https://img.shields.io/badge/X-@carlosveramkt-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/carlosveramkt)
+[![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-E1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=#e1306c)](https://www.instagram.com/carlosveramkt)
+[![YouTube](https://img.shields.io/badge/YouTube-CarlosVeraMKT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@CarlosVeraMKT)
+[![Web](https://img.shields.io/badge/Web-BravesLab.com-01b7af?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=01b7af)](https://braveslab.com)
 
 </div>
 
@@ -133,4 +133,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01b7af,50:242424,100:0a0a0a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:018E87,50:31BDAD,100:01b7af&height=120&section=footer"/>
