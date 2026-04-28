@@ -57,9 +57,9 @@
 <div align="center">
 
 [![X](https://img.shields.io/badge/X-@carlosveramkt-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/carlosveramkt)
-[![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=#e1306c)](https://www.instagram.com/carlosveramkt)
+[![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e1306c)](https://www.instagram.com/carlosveramkt)
 [![YouTube](https://img.shields.io/badge/YouTube-CarlosVeraMKT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@CarlosVeraMKT)
-[![Web](https://img.shields.io/badge/Web-BravesLab.com-5dd5c7?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF&labelColor=018E87)](https://braveslab.com)
+[![Web](https://img.shields.io/badge/Web-BravesLab.com-018E87?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF&labelColor=018E87)](https://braveslab.com)
 
 </div>
 
