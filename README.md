@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:016560,50:018E87,100:01b7af&text=Hi,%20I'm%20Carlos%20Vera&fontColor=CEF2EF&desc=Senior%20Designer%20%E2%80%A2%20Fullstack%20Developer%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:016560,50:018E87,100:01b7af&text=👋🏾%20Hola,%20soy%20Carlos%20Vera&fontColor=CEF2EF&desc=Senior%20Web%20Designer%20%E2%80%A2%20Fullstack%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -11,39 +11,41 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Que puedo hacer por ti</h2>
 
 <p align="center">
-  Construyo productos digitales donde el diseño y el código se encuentran.<br>
-  Integro IA para crear experiencias digitales y automatizar en busca de mejora de procesos.
+Soy Ingeniero en informatica (2004) y <br>
+Tec. Superior en Diseño Grafico Publicitario (2007). <br>
+Empecé haciendo diseño gráfico para marcas como Pepsi, Marlboro y Parmalat en Venezuela. Luego me mudé a España, aprendí desarrollo web, llegué a liderar departamentos de marketing en grandes empresas — y en algún punto todo eso se convirtió en una obsesión: **ayudar a empresas a dejar de perder tiempo en tareas repetitivas y empezar a usar su energía en lo que importa**.
+
 </p>
 
 <div align="center">
 
 <table>
   <tr>
-    <td>💭</td>
-    <td><b>Learning</b></td>
-    <td>Python</td>
+    <td>🧠</td>
+    <td><b>Aprendiendo</b></td>
+    <td>Python, SQL </td>
   </tr>
   <tr>
-    <td>🚀</td>
-    <td><b>Building</b></td>
+    <td>🧑🏾‍💻</td>
+    <td><b>Trabajando</b></td>
     <td><a href="https://wordpress.org/plugins/braveschat/">BravesChat IA</a></td>
   </tr>
   <tr>
     <td>🤝</td>
-    <td><b>Open to</b></td>
-    <td>Collaborations & interesting projects</td>
+    <td><b>Abierto a</b></td>
+    <td>Colaboraciones y proyectos interesantes</td>
   </tr>
   <tr>
     <td>📬</td>
-    <td><b>Contact</b></td>
+    <td><b>Contacto</b></td>
     <td><a href="mailto:carlos@braveslab.com">carlos@braveslab.com</a></td>
   </tr>
   <tr>
     <td>🌐</td>
-    <td><b>Business</b></td>
+    <td><b>Empresa</b></td>
     <td><a href="https://braveslab.com">braveslab.com</a></td>
   </tr>
 </table>
@@ -52,13 +54,14 @@
 
 ---
 
-<h2 align="center">Find me on</h2>
+<h2 align="center">Encuéntrame en</h2>
 
 <div align="center">
 
 [![X](https://img.shields.io/badge/X-@carlosveramkt-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/carlosveramkt)
 [![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e1306c)](https://www.instagram.com/carlosveramkt)
 [![YouTube](https://img.shields.io/badge/YouTube-CarlosVeraMKT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@CarlosVeraMKT)
+[![Facebook](https://img.shields.io/badge/Facebook-@BravesLab-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://facebook.com/BravesLab)
 [![Web](https://img.shields.io/badge/Web-BravesLab.com-018E87?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF&labelColor=018E87)](https://braveslab.com)
 
 </div>
@@ -69,7 +72,7 @@
 
 <div align="center">
 
-**Languages & Web**
+**Lenguajes & Web**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
