@@ -14,8 +14,9 @@
 <h2 align="center">Que puedo hacer por ti</h2>
 
 <p align="center">
-Ayudar a tu empresa a dejar de perder tiempo en tareas repetitivas y empezar a usar su energía en lo que importa. <br>
-Empecé haciendo diseño gráfico para marcas como Pepsi, Marlboro y Parmalat en Venezuela. Luego me mudé a España, aprendí desarrollo web, llegué a liderar departamentos de marketing en grandes empresas.<br>
+Ayudar a tu empresa a dejar de perder tiempo en tareas repetitivas y empezar a usar su energía en lo que importa.<br>
+Empecé haciendo diseño gráfico para marcas como Pepsi, Marlboro y Parmalat en Venezuela.<br>
+Luego me mudé a España, aprendí desarrollo web, llegué a liderar departamentos de marketing en grandes empresas.<br>
 Soy Ingeniero en informatica (2004) y Tec. Superior en Diseño Grafico Publicitario (2007). <br>
 
 </p>
