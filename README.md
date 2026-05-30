@@ -27,7 +27,7 @@ Soy Ingeniero en informatica (2004) y Tec. Superior en Diseño Grafico Publicita
   <tr>
     <td>🧠</td>
     <td><b>Aprendiendo</b></td>
-    <td>Python, SQL </td>
+    <td>C, Python, AX SQL </td>
   </tr>
   <tr>
     <td>🧑🏾‍💻</td>
