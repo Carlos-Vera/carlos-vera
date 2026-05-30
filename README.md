@@ -125,15 +125,15 @@ Soy Ingeniero en informatica (2004) y Tec. Superior en Diseño Grafico Publicita
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=transparent&title_color=01b7af&icon_color=01b7af&text_color=ffffff&border_color=242424">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=default&title_color=01b7af&icon_color=01b7af&border_color=242424">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=default" height="200px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chi-rose-80.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=transparent&title_color=01b7af&icon_color=01b7af&text_color=ffffff&border_color=242424">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chi-rose-80.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=default&title_color=01b7af&icon_color=01b7af&border_color=242424">
+    <img alt="GitHub Stats" src="https://github-readme-stats-chi-rose-80.vercel.app/api?username=Carlos-Vera&show_icons=true&count_private=true&theme=default" height="200px">
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=transparent&title_color=01b7af&text_color=ffffff&border_color=242424">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=default&title_color=01b7af&border_color=242424">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=default" height="200px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chi-rose-80.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=transparent&title_color=01b7af&text_color=ffffff&border_color=242424">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chi-rose-80.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=default&title_color=01b7af&border_color=242424">
+    <img alt="Top Languages" src="https://github-readme-stats-chi-rose-80.vercel.app/api/top-langs/?username=Carlos-Vera&layout=compact&langs_count=8&theme=default" height="200px">
   </picture>
 
 </div>
