@@ -140,7 +140,7 @@ Soy Ingeniero en informatica (2004) y Tec. Superior en Diseño Grafico Publicita
 
 <div align="center">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Carlos-Vera&theme=transparent&ring=01b7af&fire=5dd5c7&currStreakLabel=01b7af&sideLabels=ffffff&dates=ffffff&sideNums=5dd5c7&currStreakNum=01b7af" alt="GitHub Streak" height="200px"/>
+  <img src="https://streak-stats.demolab.com/?user=Carlos-Vera&v=2&theme=transparent&ring=01b7af&fire=5dd5c7&currStreakLabel=01b7af&sideLabels=ffffff&dates=ffffff&sideNums=5dd5c7&currStreakNum=01b7af" alt="GitHub Streak" height="200px"/>
 </div>
 
 ---
