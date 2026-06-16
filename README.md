@@ -27,12 +27,12 @@ Soy Ingeniero en informatica (2004) y Tec. Superior en Diseño Grafico Publicita
   <tr>
     <td>🧠</td>
     <td><b>Aprendiendo</b></td>
-    <td>C, Python, AX SQL </td>
+    <td>C, Python, AX SQL, Scrapping</td>
   </tr>
   <tr>
     <td>🧑🏾‍💻</td>
     <td><b>Trabajando</b></td>
-    <td><a href="https://wordpress.org/plugins/braveschat/">BravesChat IA</a></td>
+    <td><a href="https://wordpress.org/plugins/braveschat/">BravesChat IA</a>, Property Valuer Pro</td>
   </tr>
   <tr>
     <td>🤝</td>
@@ -59,9 +59,9 @@ Soy Ingeniero en informatica (2004) y Tec. Superior en Diseño Grafico Publicita
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-@carlosveramkt-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/carlosveramkt)
-[![Instagram](https://img.shields.io/badge/Instagram-@carlosveramkt-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e1306c)](https://www.instagram.com/carlosveramkt)
-[![YouTube](https://img.shields.io/badge/YouTube-CarlosVeraMKT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@CarlosVeraMKT)
+[![X](https://img.shields.io/badge/X-@soy_carlosvera-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/soy_carlosvera)
+[![Instagram](https://img.shields.io/badge/Instagram-@soy.carlosvera-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e1306c)](https://www.instagram.com/soy.carlosvera)
+[![YouTube](https://img.shields.io/badge/YouTube-Soy.CarlosVera-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@Soy.CarlosVera)
 [![Facebook](https://img.shields.io/badge/Facebook-@BravesLab-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://facebook.com/BravesLab)
 [![Web](https://img.shields.io/badge/Web-BravesLab.com-018E87?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF&labelColor=018E87)](https://braveslab.com)
 
