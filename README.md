@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:016560,50:018E87,100:01b7af&text=👋🏾%20Carlos%20Vera&fontColor=CEF2EF&desc=Web%20Designer%20%E2%80%A2%20Fullstack%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:016560,50:018E87,100:01b7af&text=👋🏾%20Carlos%20Vera&fontColor=CEF2EF&desc=Senior%20Designer%20%E2%80%A2%20Fullstack%20%E2%80%A2%20IA%20Integrator&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -101,7 +101,6 @@ Soy Ingeniero en informática (2004) y Técnico Superior en Diseño Gráfico Pub
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![IONOS](https://img.shields.io/badge/IONOS-003D8F?style=for-the-badge&logo=ionos&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
@@ -112,12 +111,9 @@ Soy Ingeniero en informática (2004) y Técnico Superior en Diseño Gráfico Pub
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 **AI Tools**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
